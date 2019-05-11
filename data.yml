@@ -1,0 +1,9 @@
+- name: "D"
+  minutes: 1
+- name: "A"
+  minutes: 1
+- name: "C"
+  minutes: 5
+- name: "B"
+  minutes: 2
+
