@@ -1,0 +1,14 @@
+- name: "A"
+  minutes: 1
+- name: "B"
+  minutes: 10
+- name: "C"
+  minutes: 11
+- name: "D"
+  minutes: 12
+- name: "E"
+  minutes: 13
+- name: "F"
+  minutes: 14
+- name: "G"
+  minutes: 15
